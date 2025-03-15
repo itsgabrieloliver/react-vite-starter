@@ -1,5 +1,4 @@
-# Nubo Starter
-# React + Vite + Tailwind
+# Nubo - React + Vite + Tailwind Starter
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. It also installs Tailwind.
 
