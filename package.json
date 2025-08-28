@@ -8,14 +8,14 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "http-server ./dist"
+    "start": "serve ./dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.14",
-    "http-server": "^14.1.1",
     "install": "^0.13.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "serve": "^14.2.4",
     "tailwindcss": "^4.0.14"
   },
   "devDependencies": {
